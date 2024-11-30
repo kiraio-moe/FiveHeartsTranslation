@@ -2,7 +2,7 @@
   <h1>Five Hearts Translation</h1>
   <p>What is this? It's a <a href="https://github.com/LavaGang/MelonLoader">MelonLoader</a> MOD for <a href="https://store.steampowered.com/app/3021100/Five_Hearts_Under_One_Roof/">Five Hearts Under One Roof</a> game.
   <br/>
-  With this you can patch the game UI text and subtitles. This MOD is solely created to fix the bad translation, but maybe in not so long future I'll add the functionality to add a new language.</p>
+  With this you can patch the game UI text and subtitles. This MOD is solely created to fix the bad translation. <strike>But maybe in not so long future I'll add the functionality to add a new language</strike> Not planning to develop this MOD further than this. The best way is just overwrite the available language that you don't use.</p>
   <img src="./preview.png"/>
 </div>
 
